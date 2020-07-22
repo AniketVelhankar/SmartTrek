@@ -2,7 +2,7 @@
 Android app to track trekkers location and to post trekking experiences.
 This project was made as a part of Skill Development Laboratory (SDL) for Mobile App Development track in P.I.C.T.
 
-**CONTRIBUTERS**: [Aniket Velhankar](https://github.com/AniketVelhankar), [Tanay Shirodkar](https://github.com/iamtanay7), [Jatin Unecha](https://github.com/jsunecha), [Shivang Raina](https://github.com/shivangraina)
+**CONTRIBUTORS**: [Aniket Velhankar](https://github.com/AniketVelhankar), [Tanay Shirodkar](https://github.com/iamtanay7), [Jatin Unecha](https://github.com/jsunecha), [Shivang Raina](https://github.com/shivangraina)
 
 ## Functionalities added
 1. Real time route tracing to analyse path of trek.
